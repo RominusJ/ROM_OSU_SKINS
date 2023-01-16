@@ -24,3 +24,16 @@ first personal skin project, featuring several unique variants
   
 </p>
 </details>
+
+<details><summary>【ROM】REMASTERED COLLECTION <sub>(V1)</sub></summary>
+<p>
+
+```
+features remastered skin packages, upscaled to 2x via recreation
+```
+
+### AngelLSheooo (Hitcircle + Cursor Remaster)
+
+# DL: [AngelLSheooo (Hitcircle + Cursor Remaster)](https://drive.google.com/file/d/1bkEVV0-n2iuspvOgTmek2fnc_TbRQg2Z/view?usp=share_link)
+  
+</p>
