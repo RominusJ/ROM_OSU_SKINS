@@ -30,7 +30,7 @@ first personal skin project, featuring several unique variants
 a personalization of shikima's "hortus" skin
 ```
 
-# DL: [AZATHOTH](https://drive.google.com/file/d/1D-NxrEQeT_3-HONDFEJEgS86DYftZ5-P/view?usp=share_link)
+[![AZATHOTH V001](https://user-images.githubusercontent.com/119740158/221403486-c2764962-3911-4bc1-87b8-71bb950b7e54.png "Download AZATHOTH")](https://drive.google.com/file/d/1D-NxrEQeT_3-HONDFEJEgS86DYftZ5-P/view?usp=share_link)
   
 </p>
 </details>
