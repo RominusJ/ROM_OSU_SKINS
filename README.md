@@ -23,14 +23,14 @@ first personal skin project, featuring several unique variants
 </p>
 </details>
 
-<details><summary>【ROM】AZATHOTH <sub>(V001)</sub></summary>
+<details><summary>【ROM】AZATHOTH <sub>(V001A)</sub></summary>
 <p>
 
 ```
 a personalization of shikima's "hortus" skin
 ```
 
-[![AZATHOTH V001](https://user-images.githubusercontent.com/119740158/221403486-c2764962-3911-4bc1-87b8-71bb950b7e54.png "Download AZATHOTH")](https://drive.google.com/file/d/1D-NxrEQeT_3-HONDFEJEgS86DYftZ5-P/view?usp=share_link)
+[![AZATHOTH V001A](https://drive.google.com/file/d/1SeJ7VvhU-0ouAzgEUsciD4_BuqcMUqH5/view?usp=share_link)
   
 </p>
 </details>
