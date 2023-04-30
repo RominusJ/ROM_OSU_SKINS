@@ -42,7 +42,7 @@ a personalization of shikima's "hortus" skin
 features remastered skin packages, upscaled to 2x via recreation
 ```
 
-### AngelLSheooo (Hitcircle + Cursor Remaster)
+### TheSheooo's AngelLSheooo (Hitcircle + Cursor Remaster)
 [![RMSHD](https://user-images.githubusercontent.com/119740158/227712784-b76b6ab4-eeb5-459a-ab43-5c42daeaabc7.jpg "Download Sheooo's Remastered Skin")](https://drive.google.com/file/d/1bkEVV0-n2iuspvOgTmek2fnc_TbRQg2Z/view?usp=share_link)
   
 </p>
