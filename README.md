@@ -55,8 +55,7 @@ features remastered skin packages, upscaled to 2x via recreation
 contains well-known skins, altered to suit personal preferences
 ```
 
-### Lacquered Steel (fierymod v8 derivative)
-[![LSV001](https://github.com/RominusJ/ROM_OSU_SKINS/assets/119740158/284a306c-1f3b-4219-8aab-bc959460b2ab "Download Lacquered Steel")](https://drive.google.com/file/d/1bkEVV0-n2iuspvOgTmek2fnc_TbRQg2Z/view?usp=share_link)
+[![LSPREV](https://github-production-user-asset-6210df.s3.amazonaws.com/119740158/246581055-fbf4d158-6eb1-42a1-a9f8-f18e4495b3ae.jpg "Download Lacquered Steel")](https://drive.google.com/file/d/1Xdls6kJW_0Uf-0EKoyQb0neyKviP9ACf/view?usp=sharing)
   
 </p>
 </details>
