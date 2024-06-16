@@ -57,7 +57,7 @@ contains well-known skins, altered to suit personal preferences
 [![lacsteel_typea](https://github.com/RominusJ/ROM_OSU_SKINS/assets/119740158/d7cd68a6-d3b0-4a89-aa5c-3a74cdd7aac6.png "Download Lacquered Steel (V002A)")](https://drive.google.com/file/d/1nCeQAbd1HcDAEfYS0KLC_TsPRVXKF7RL/view?usp=drive_link)
 
 ### LACQUERED STEEL (V002B)
-[![lacsteel_typeb](https://github.com/RominusJ/ROM_OSU_SKINS/assets/119740158/2d1a8851-e858-4ecd-b7dd-99bb0cdbb4ea.png "Download Lacquered Steel (V002B)")](https://drive.google.com/file/d/1QJO6CgE4dGOj6ghn57UQCb8tlYOOhVDm/view?usp=drive_link)
+[![lacsteel_typeb](https://github.com/RominusJ/ROM_OSU_SKINS/assets/119740158/2d1a8851-e858-4ecd-b7dd-99bb0cdbb4ea.png "Download Lacquered Steel (V002B)")](https://drive.google.com/file/d/12tXGfgq7RlpPmVktybtJER7hxqISbyb7/view?usp=drive_link)
 
 ### LACQUERED STEEL [PHNTSM] (V002B)
 [![lacsteel_phntsm](https://github.com/RominusJ/ROM_OSU_SKINS/assets/119740158/2b1beb65-b7ae-45f9-ae28-bbd720dbbbe9.png "Download Lacquered Steel [PHNTSM] (V002B)")](https://drive.google.com/file/d/1xMGkIXtMnYpChSPHWJGXvjoNcjqItOrQ/view?usp=drive_link)
