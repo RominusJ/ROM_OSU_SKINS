@@ -59,6 +59,8 @@ contains well-known skins, altered to suit personal preferences
 ### LACQUERED STEEL (V002B)
 [![lacsteel_typeb](https://github.com/RominusJ/ROM_OSU_SKINS/assets/119740158/2d1a8851-e858-4ecd-b7dd-99bb0cdbb4ea.png "Download Lacquered Steel (V002B)")](https://drive.google.com/file/d/12tXGfgq7RlpPmVktybtJER7hxqISbyb7/view?usp=drive_link)
 
+[![lacsteel_typec](https://github.com/user-attachments/assets/968a3f62-4dc6-46f6-bac1-504e0af38c83 "Download Lacquered Steel (V002C)")](https://drive.google.com/file/d/14mdiO_6TvR1VUjubzS1hu9TP3aHGhwgO/view?usp=drive_link)
+
 ### LACQUERED STEEL [PHNTSM] (V002B)
 [![lacsteel_phntsm](https://github.com/RominusJ/ROM_OSU_SKINS/assets/119740158/2b1beb65-b7ae-45f9-ae28-bbd720dbbbe9.png "Download Lacquered Steel [PHNTSM] (V002B)")](https://drive.google.com/file/d/1xMGkIXtMnYpChSPHWJGXvjoNcjqItOrQ/view?usp=drive_link)
 
